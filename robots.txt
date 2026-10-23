@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vitaslimex-uk.vercel.app/sitemap.xml
+Sitemap: https://vitaslimex-uk-offer.vercel.app/sitemap.xml
